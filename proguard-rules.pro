@@ -1,0 +1,1 @@
+# No custom ProGuard rules in the prototype.\n
